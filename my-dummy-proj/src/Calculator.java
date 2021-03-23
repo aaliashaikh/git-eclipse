@@ -9,7 +9,7 @@ public class Calculator {
 		
 		System.out.println("Addition is " + sum);
 		System.out.println(a - b);
-		System.out.println(a * b);
+		System.out.println("Product is " + (a * b));
 		System.out.println(a / b);
 	}
 }
